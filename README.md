@@ -1,5 +1,5 @@
 # fullstackopen_part0
-Part0 exercises of Full Stack open 2022 
+Part0 exercises of Full Stack open 2022 course
 
 ## 0.4: uusi muistiinpano
 selain→palvelin: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note
